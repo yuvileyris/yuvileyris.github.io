@@ -17,9 +17,13 @@ This project exists to stand out of the crowd and to show how creative it can be
 ## API Reference
 
 I used for all my API´s urls to get them and did not install any package. So I can prevent on an early stage a big size of my files and the loading time is shorter. 
+
 *Google API fonts : https://fonts.googleapis.com
+
 *W3CSS: http://www.w3schools.com/lib/w3.css
+
 *JQuery library: https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js
+
 *Font Awesome Icons: http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css
 
 ## Tests
