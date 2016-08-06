@@ -1,32 +1,36 @@
 ## Synopsis
 
-At the top of the file there should be a short introduction and/ or overview that explains **what** the project is. This description should match descriptions added for package managers (Gemspec, package.json, etc.)
+**yuvileyris.com** is a website I made as virtual identity card. It works together with everytime reachable domain yuvileyris.github.io In the following years this website should become dynamic with Content Management System Drupal.
 
 ## Code Example
 
-Show what the library does as concisely as possible, developers should be able to figure out **how** your project solves their problem by looking at the code example. Make sure the API you are showing off is obvious, and that your code is short and concise.
+At first I created a website from a Template @ Startbootstrap. But then I wanted to create one on my own, so I used w3.css. Here is a codesnippet how the head section is built.
 
 ## Motivation
 
-A short description of the motivation behind the creation and maintenance of the project. This should explain **why** the project exists.
+This project exists to stand out of the crowd and to show how creative it can be to build something step by step on your own. As I am at the beginning of the project I started with Notepad++. 
 
 ## Installation
 
-Provide code examples and explanations of how to get the project.
+-
 
 ## API Reference
 
-Depending on the size of the project, if it is small and simple enough the reference docs can be added to the README. For medium size to larger projects it is important to at least provide a link to where the API reference docs live.
+I used for all my API´s urls to get them and did not install any package. So I can prevent on an early stage a big size of my files and the loading time is shorter.
 
 ## Tests
 
-Describe and show how to run the tests with code examples.
+I ran the tests mostly on Mozilla Firefox.
 
 ## Contributors
 
-Let people know how they can dive into the project, include important links to things like issue trackers, irc, twitter accounts if applicable.
+To get to know more about my projects, visit me on 
+Google+ :
+LinkedIn:
+Twitter:
+
 
 ## License
 
-A short snippet describing the license (MIT, Apache, etc.)
+No Copyright. Blog and Parallax inspired by w3schools.com, yuvileyris.com selfmade.
 
