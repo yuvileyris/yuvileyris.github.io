@@ -1,0 +1,202 @@
+.w3-theme-l5 {color:#000 !important; background-color:#e7e7ff !important}   /*blue style from w3 color generator*/
+.w3-theme-l4 {color:#000 !important; background-color:#adadff !important}
+.w3-theme-l3 {color:#fff !important; background-color:#5c5cff !important}
+.w3-theme-l2 {color:#fff !important; background-color:#0a0aff !important}
+.w3-theme-l1 {color:#fff !important; background-color:#0000b8 !important}
+.w3-theme-d1 {color:#fff !important; background-color:#00005c !important}
+
+.w3-theme-light {color:#000 !important; background-color:#e7e7ff !important}
+.w3-theme-dark {color:#fff !important; background-color:#000033 !important}
+.w3-theme-action {color:#fff !important; background-color:#000033 !important}
+
+.w3-theme {color:#fff !important; background-color:#000066 !important}
+.w3-text-theme {color:#000066 !important}
+.w3-hover-theme:hover {color:#fff !important; background-color:#000066 !important}
+
+/* Remove margins and padding from the list, and add a black background color */
+ul.topnav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+/* Float the list items side by side */
+ul.topnav li {float: left;}
+
+/* Style the links inside the list items */
+ul.topnav li a {
+    display: inline-block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    transition: 0.3s;
+    font-size: 17px;
+	font-family: 'Average', serif;
+	
+}
+
+/* Change background color of links on hover */
+ul.topnav li a:hover {background-color: #555;}
+
+/* Hide the list item that contains the link that should open and close the topnav on small screens */
+ul.topnav li.icon {display: none;}
+
+ /* When the screen is less than 680 pixels wide, hide all list items, except for the first one ("Home"). Show the list item that contains the link to open and close the topnav (li.icon) */
+@media screen and (max-width:680px) {
+  ul.topnav li:not(:first-child) {display: none;}
+  ul.topnav li.icon {
+    float: left;
+    display: inline-block;
+  }
+}
+
+/* The "responsive" class is added to the topnav with JavaScript when the user clicks on the icon. This class makes the topnav look good on small screens */
+@media screen and (max-width:680px) {
+  ul.topnav.responsive {position: relative;}
+  ul.topnav.responsive li.icon {
+    position: absolute;
+    left: 0;
+    top: 0;
+  }
+  ul.topnav.responsive li {
+    float: none;
+    display: inline;
+  }
+  ul.topnav.responsive li a {
+    display: block;
+    text-align: center;
+  }
+}
+
+h1{font-family: 'Average', serif;
+   font-size:5.6vw;
+   color: white;
+   z-index:1;
+   text-align:center;}
+   
+header{text-align: left;
+margin: 16px;
+
+mytitle{
+	font-family: 'Average', serif; text-align: center; }
+	color:black;font:white; position: absolute;    
+	}
+   
+footer{color: black;
+}
+
+body{background-color: light-grey;}
+
+/*mylinks*/
+
+.homepage-hero-module {
+    border-right: none;
+    border-left: none;
+    position: relative;
+}
+.no-video .video-container video,
+.touch .video-container video {
+    display: none;
+}
+.no-video .video-container .poster,
+.touch .video-container .poster {
+    display: block !important;
+}
+.video-container {
+    position: relative;
+    bottom: 0%;
+    left: 0%;
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+    background: #000;
+}
+.video-container .poster img {
+    width: 100%;
+    bottom: 0;
+    position: relative;
+}
+.video-container .filter {
+    z-index: 100;
+    position: relative;
+    background: rgba(0, 0, 0, 0.4);
+    width: 100%;
+}
+.video-container video {
+    position: relative;
+    z-index: -1;
+    bottom: 0;
+}
+.video-container video.fillWidth {
+    width: 100%;
+}
+
+#mytitle {
+    position:absolute;
+    color: rgb(230, 200, 98);
+    z-index:1;      
+}
+
+#contact{
+	text-align:center;
+	position: middle;
+	
+}
+
+#email 
+{
+	text-align:center;
+	color: white;
+}
+
+a:link {
+    text-decoration: none;
+	color:black;
+}
+
+a:visited {
+    text-decoration: none;
+	color: black;
+}
+
+
+/* mouse over link */
+a:hover {
+    color: blue;
+}
+
+hr::after{
+	color: 1px solid black;
+}
+
+#navcontainer ul
+{
+margin: 0;
+padding: 0;
+list-style-type: none;
+}
+
+#navcontainer ul li { display: inline; }
+
+#navcontainer ul li a
+{
+text-decoration: none;
+color: black;
+}
+
+#navcontainer ul li a:hover
+{
+color: black;}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    display: inline;
+}
