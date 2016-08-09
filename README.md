@@ -1,10 +1,11 @@
 ## Synopsis
 
-**yuvileyris.com** is a website I made as virtual identity card. It works together with everytime reachable domain yuvileyris.github.io In the following years this website should become dynamic with Content Management System Drupal.
+**yuvileyris.com** is a website I made as virtual identity card. It works together with everytime reachable domain **yuvileyris.github.io** In the following years this website should become dynamic with Content Management System Drupal. 
+
 
 ## Code Example
 
-At first I created a website from a Template @ **Startbootstrap**. But then I wanted to create one on my own, so I used **w3.css**. Here is a codesnippet how the head section is built.
+At first I created a website from a Template @ **Startbootstrap**. But then I wanted to create one on my own, so I used **w3.css** and **css**. Here is a codesnippet how the head section is built.
 
 ## Motivation
 
