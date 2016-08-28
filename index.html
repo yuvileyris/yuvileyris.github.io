@@ -1,134 +1,102 @@
 <!doctype html>
-<html lang = "en-GB">
-<head>
-
-<meta charset = "UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1"> <!--responsive for mobile-->
-<meta name="Description" content="Digital Identity">
-<meta name="Keywords" content="Yuvileyris, Pauritsch, html, css, javascript, jquery, php, sql, xml, jason, asp, asp.net, w3.css,digital identity card, dom, bootstrap, web development, open-source>
-<meta name="Author" content="Yuvileyris Pauritsch">
-
-<link rel="stylesheet" href="http://www.w3schools.com/lib/w3.css">   						<!--w3.css library-->
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script> 	<!--Jquery library-->
-<link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css"> <!--Font Awesome Icon library-->
-
-<link href="myStyle.css" rel="stylesheet"> 							 <!--External sheet css-->
-<script src="myJquery.js"></script>					 				 <!--External jquery script-->
-<script src="myScript.js"></script>									 <!--External javascript-->
-
-<!--insert external sql file here-->
-<!--insert external php file here-->
-<!--insert external database file here-->
-<!--insert external xml file here-->
-<!--insert external jason file here-->
-<!--insert external asp file here-->
-
-<!--Custom fonts-->
-<link href='https://fonts.googleapis.com/css?family=Average&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
-
-<title>Yuvileyris</title>  
-</head> 
-
-				<!--Navigation bar begins-->
-<div id="home">
-	<div class="collape navbar-collapse" id="myTopnav-1">
-		<ul class="nav navbar-nav navbar-right topnav w3-top">
-			<li class="hidden">
-				<li><a class="w3-hover-deep-purple"href="#home">Home</a></li>
-				<li><a class="w3-hover-indigo" href="#about">About</a></li>
-				<li><a class="w3-hover-blue" href="#contact">Github</a></li>
-				<li><a class="w3-hover-light-blue"href="blog.html">Blog</a></li>
-				<li class="icon">
-				<a href="javascript:void(0);" onclick="myFunction()">&#9776;</a>
-				</li>
-		</ul>
-	</div>
-</div>
-			
-
-				<!--Navigation bar ends-->
-
-
-				<!--Video & Title -->
-
-<!--Internet Explorer 8 and above doesn´t recognize videos or html5 at all- HECK - alternatively is this possible-->								
-<!--[if lt IE 9]>
-<script>
-	document.createElement('video');      
-</script>
-<![endif]-->
-
-<div id="container" align="center">
-    <video width="100%" height="100%" controls autoplay loop>
-      <source src="Hello-World.mp4" type="video/mp4"/>
-    </video>
-    <div class="w3-display-middle" id="mytitle"><h1>Yuvileyris</br>Website Page</h1><hr style="color:white"></hr></div>
-</div>
-
-
-				<!--Video and Title ends-->
-
-<!--About Section-->
-
-			<body><section>
-				<div class="w3-container  w3-content w3-center w3-padding-64" style="max-width:800px"id="about">  
-				<span class="w3-tag w3-black w3-large">A</span>
-				<span class="w3-tag w3-black w3-large">B</span>
-				<span class="w3-tag w3-black w3-large">O</span>
-				<span class="w3-tag w3-black w3-large">U</span>
-				<span class="w3-tag w3-black w3-large">T</span>
-				<hr>
-			
-
-<a href="http://www.hlw-dl.at/cms/images/stories/broschuren/Stundentafel_aktiv_201415.pdf">Secondary School for Economic Professions</a></p> 
-<p>Now: <a href="https://www.tugraz.at/en/studying-and-teaching/degree-and-certificate-programmes/bachelors-degree-programmes/computer-science/">Computer Science</a> @ Graz University of Technology</p>
-<p>Age: <script>document.write(getAge("27/05/1994",3)+'<BR>');</script></p>
-<p>Berliner Ring 27</p>
-<p>8047 Graz, AUSTRIA</p>
-
-<div class="list inline social media buttons" id="navcontainer">
-	<ul>
-		<li><a target="_blank" href="https://twitter.com/Yuvileyris"><i class="fa-3x fa fa-twitter-square"></i></a>
-		</li>
-		<li><a target="_blank" href="https://github.com/yuvileyris"><i class=" fa-3x fa fa-github"></i></a>
-		</li>
-		<li><a target="_blank"href="https://plus.google.com/u/0/105565946884369468888"><i class="fa-3x fa fa-google-plus-official"></i></a>
-		</li>	
-		<li><a target="_blank" href="https://www.linkedin.com/in/yuvileyris-pauritsch-85267b125?trk=nav_responsive_tab_profile_pic"><i class="fa-3x fa fa-linkedin-square"></i></a>
-		</li>
-		</ul> 
-	</div>
-</div>
-
-						
-</section>
-<!--About Section ends-->
-
-<!--Contact Section-->
-<section id="contact">
-	<div class="w3-display-container">
-		<img src="note.jpg" alt="note" width="100%">
-			<div class="w3-display-middle ">
-				<h1>Contact me</h1>
-				<li class="w3-btn w3-hover-black w3-xxlarge w3-opacity" id="email">
-				<a href="mailto:yuvileyris@yahoo.com" target="_blank" >E-Mail</a>
-				</li>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+    <head>
+		<!-- BASICS -->
+        <meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>Yuvileyris</title>
+        <meta name="description" content="">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<link rel="stylesheet" type="text/css" href="css/isotope.css" media="screen" />	
+		<link rel="stylesheet" href="js/fancybox/jquery.fancybox.css" type="text/css" media="screen" />
+		<link rel="stylesheet" href="css/bootstrap.css">
+		<link rel="stylesheet" href="css/bootstrap-theme.css">
+        <link rel="stylesheet" href="css/style.css">
+		<!-- skin -->
+		<link rel="stylesheet" href="skin/default.css">
+    </head>
+	 
+    <body>
+		<section id="header" class="appear"></section>
+		<div class="navbar navbar-fixed-top" role="navigation" data-0="line-height:100px; height:100px; background-color:rgba(0,0,0,0.3);" data-300="line-height:60px; height:60px; background-color:rgba(0,0,0,1);">
+			 <div class="container">
+				<div class="navbar-header">
+					<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+						<span class="fa fa-bars color-white"></span>
+					</button>
+					<h1><a class="navbar-brand" href="index.html" data-0="line-height:90px;" data-300="line-height:50px;">			Yuvileyris
+					</a></h1>
+				</div>
+				<div class="navbar-collapse collapse">
+					<ul class="nav navbar-nav" data-0="margin-top:20px;" data-300="margin-top:5px;">
+						<li class="active"><a href="index.html">HOME</a></li>
+						<li><a href="#section-about">ABOUT</a></li>
+						<li><a href="#section-contact">CONTACT</a></li>
+						<li><a href="#blog.html">BLOG</a></li>
+						<li><a href="#blog.html">GITHUB</a></li>
+					</ul>
+				</div><!--/.navbar-collapse -->
 			</div>
 		</div>
-	</div>
-</section>
-<!--Contact Section ends-->
 
-<!--Footer Section-->
-<footer>
-<div class="ww3-container w3-row" id="navcontainer2">
-		<ul> 
-			<li>No Copyright, sourcecode @  <a href="https://github.com/yuvileyris">Github</a></li>
-		
+		<section class="featured">
+			<div class="container">  
+				<div class="row mar-bot40">
+					<div class="col-md-6 col-md-offset-3">
+						<div class="align-center">
+							<i class="fa fa-terminal fa-5x mar-bot20"></i>
+							<h2 class="slogan">Website Page<hr></h2>
+							<br>
+							<br>
+							<br>	
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+			
+		<!-- about -->
+		<section id="section-about" class="section appear clearfix">
+		<div class="container">
+
+				<div class="row mar-bot40">
+					<div class="col-md-offset-3 col-md-6">
+						<div class="section-header">
+							<h2 class="section-heading animated" data-animation="bounceInUp">About</h2>
+							<a href="http://www.hlw-dl.at/cms/images/stories/broschuren/Stundentafel_aktiv_201415.pdf">Secondary School for Economic Professions</a></p> 
+<p>Now: <a href="https://www.tugraz.at/en/studying-and-teaching/degree-and-certificate-programmes/bachelors-degree-programmes/computer-science/">Computer Science</a> @ Graz University of Technology</p>
+<p>Jahrgang: 27.05.1994 </p> 
+						</div>
+					</div>
+				</div>
 						
-														
-<li>	
-<script type="text/javascript" src="https://secure.skypeassets.com/i/scom/js/skype-uri.js"></script>
+		</div>
+		</section>
+		<!-- /about -->
+		
+		<!-- spacer section:stats -->
+		<section id="parallax1" class="section pad-top40 pad-bot40" data-stellar-background-ratio="0.5">
+			<div class="container">
+            <div class="align-center pad-top40 pad-bot40">
+                <blockquote class="bigquote color-white"><p>Berliner Ring 27</p>
+<p>8047 Graz, AUSTRIA</p></blockquote>
+				<p class="color-white">-<a href="https://www.google.at/maps/place/Berliner+Ring+27,+8047+Graz/@47.0746846,15.4920781,17z/data=!3m1!4b1!4m5!3m4!1s0x476e4a4e3c535f5d:0x315b22f2cb6f1d47!8m2!3d47.0746846!4d15.4942721?hl=en" target="_blank">Google Maps</a></p>
+            </div>
+			</div>	
+		</section>
+		
+		<!-- contact -->
+		<section id="section-contact" class="section appear clearfix">
+			<div class="container">
+				
+				<div class="row mar-bot40">
+					<div class="col-md-offset-3 col-md-6">
+						<div class="section-header">
+							<h2 class="section-heading animated" data-animation="bounceInUp">Contact me</h2>
+							<p><script type="text/javascript" src="https://secure.skypeassets.com/i/scom/js/skype-uri.js"></script>
 	<div id="SkypeButton_Call_yuvileyris002_1">
 	<script type="text/javascript">
  Skype.ui({
@@ -137,23 +105,54 @@
  "participants": ["yuvileyris002"],
  "imageSize": 32
  });
-	</script>
-	</div>
-	</script>
-</li>
+	</script><p><input type="button" class="btn btn-primary" value="Mail" onClick="window.location.href='mailto:yuvileyris@yahoo.com';" />
+						</div>
+					</div>
+				</div>
 				
-	
-		<li><a href="https://www.pexels.com/">Pexels</a>
-		</li>
-		<li><a href="http://coverr.co">Coverr</a>
-		</li>
-		</ul>		</div>				
-				</footer>
+			</div>
+		</section>
+		
+	<section id="footer" class="section footer">
+		<div class="container">
+			<div class="row animated opacity mar-bot20" data-andown="fadeIn" data-animation="animation">
+				<div class="col-sm-12 align-center">
+                    <ul class="social-network social-circle">
+                        <li><a href="#" class="icoTwitter" title="Twitter"><i class="fa fa-twitter"></i></a></li>
+                        <li><a href="#" class="icoGoogle" title="Google +"><i class="fa fa-google-plus"></i></a></li>
+                        <li><a href="#" class="icoLinkedin" title="Linkedin"><i class="fa fa-linkedin"></i></a></li>
+                    </ul>				
+				</div>
+			</div>
 
-<!--Footer Section ends-->
+			<div class="row align-center copyright">
+					<div class="col-sm-12"><p>Copyright &copy; No one - Amoeba template by <a href="http://bootstraptaste.com">Bootstrap Themes</a></p></div>
+                    <!-- 
+                        All links in the footer should remain intact. 
+                        Licenseing information is available at: http://bootstraptaste.com/license/
+                        You can buy this theme without footer links online at: http://bootstraptaste.com/buy/?theme=Amoeba
+                    -->
+			</div>
+		</div>
 
-<!--Black line-->
-<section>
-<div class="w3-container w3-black w3-padding-24" style="width:100%"</div></section>
-</body>
+	</section> 
+	<a href="#header" class="scrollup"><i class="fa fa-chevron-up"></i></a>	
+
+	<script src="js/modernizr-2.6.2-respond-1.1.0.min.js"></script>
+	<script src="js/jquery.js"></script>
+	<script src="js/jquery.easing.1.3.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+	<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyASm3CwaK9qtcZEWYa-iQwHaGi3gcosAJc&sensor=false"></script>
+	<script src="js/jquery.isotope.min.js"></script>
+	<script src="js/jquery.nicescroll.min.js"></script>
+	<script src="js/fancybox/jquery.fancybox.pack.js"></script>
+	<script src="js/skrollr.min.js"></script>		
+	<script src="js/jquery.scrollTo-1.4.3.1-min.js"></script>
+	<script src="js/jquery.localscroll-1.2.7-min.js"></script>
+	<script src="js/stellar.js"></script>
+	<script src="js/jquery.appear.js"></script>
+	<script src="js/validate.js"></script>
+    <script src="js/main.js"></script>
+       
+	</body>
 </html>
