@@ -1,6 +1,6 @@
 ## Synopsis
 
-**yuvileyris.com** is a website I made as virtual identity card. It works together with everytime reachable domain **yuvileyris.github.io** In the following years this website should become dynamic with Content Management System Drupal. 
+**yuvileyris.com** is a website I made as virtual identity card. It works together with everytime reachable domain **yuvileyris.github.io** 
 
 
 ## Code Example
