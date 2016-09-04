@@ -44,5 +44,5 @@ To get to know more about my projects, visit me on
 
 ## License
 
-No Copyright. Blog and Parallax inspired by w3schools.com, yuvileyris.com selfmade.
+No Copyright. Parallax inspired by w3schools.com, yuvileyris.github.io inspired from http://lolei.github.io/
 
