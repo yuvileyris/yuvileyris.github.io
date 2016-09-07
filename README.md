@@ -5,7 +5,7 @@
 
 ## Code Example
 
-At first I created a website from a Template @ **Startbootstrap**. But then I wanted to create one on my own, so I used **w3.css** and **css**. Here is a codesnippet how the head section is built.
+I created a website from a Template @ **Startbootstrap**. But first I used **w3.css** and **css** to create a prototype of this website on my own to know how it should look like. 
 
 ## Motivation
 
@@ -16,8 +16,6 @@ This project exists to stand out of the crowd and to show how creative it can be
 -
 
 ## API Reference
-
-I used for all my API´s urls to get them and did not install any package. So I can prevent on an early stage a big size of my files and the loading time is shorter. 
 
 *Google API fonts : https://fonts.googleapis.com
 
