@@ -33,7 +33,7 @@ I ran the tests mostly on Mozilla Firefox.
 
 To get to know more about my projects, visit me on 
 
-*Google+ :https://plus.google.com/u/0/105565946884369468888
+*Google+ :https://plus.google.com/u/0/105565946884369468888/posts?gmbpt=true&fd=1
 
 *LinkedIn: https://www.linkedin.com/in/yuvileyris-pauritsch-85267b125?trk=nav_responsive_tab_profile_pic
 
