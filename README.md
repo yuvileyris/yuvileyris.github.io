@@ -1,6 +1,6 @@
 ## Synopsis
 
-**yuvileyris.com** is a website I made as virtual identity card. It works together with everytime reachable domain **yuvileyris.github.io** 
+**yuvileyris.com** is a website I made as virtual identity card. It works together with everytime reachable domain **yuvileyris.github.io** . Later I will start a blog, when enough worthy information is provided.
 
 
 ## Code Example
