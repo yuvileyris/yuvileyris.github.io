@@ -1,11 +1,11 @@
 ## Synopsis
 
-**yuvileyris.com** is a website I made as virtual identity card. It works together with everytime reachable domain **yuvileyris.github.io** 
+**yuvileyris.com** is a website I made as virtual identity card. It works together with everytime reachable domain **yuvileyris.github.io** . Later I will start a blog, when enough worthy information is provided.
 
 
 ## Code Example
 
-At first I created a website from a Template @ **Startbootstrap**. But then I wanted to create one on my own, so I used **w3.css** and **css**. Here is a codesnippet how the head section is built.
+I created a website from a Template @ **Startbootstrap**. But first I used **w3.css** and **css** to create a prototype of this website on my own to know how it should look like. 
 
 ## Motivation
 
@@ -16,8 +16,6 @@ This project exists to stand out of the crowd and to show how creative it can be
 -
 
 ## API Reference
-
-I used for all my API´s urls to get them and did not install any package. So I can prevent on an early stage a big size of my files and the loading time is shorter. 
 
 *Google API fonts : https://fonts.googleapis.com
 
@@ -35,7 +33,7 @@ I ran the tests mostly on Mozilla Firefox.
 
 To get to know more about my projects, visit me on 
 
-*Google+ :https://plus.google.com/u/0/105565946884369468888
+*Google+ :https://plus.google.com/u/0/105565946884369468888/posts?gmbpt=true&fd=1
 
 *LinkedIn: https://www.linkedin.com/in/yuvileyris-pauritsch-85267b125?trk=nav_responsive_tab_profile_pic
 
