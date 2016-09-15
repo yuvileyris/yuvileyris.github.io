@@ -44,3 +44,6 @@ To get to know more about my projects, visit me on
 
 No Copyright. Parallax inspired by w3schools.com, yuvileyris.github.io inspired from lolei.github.io
 
+## Else...
+
+That´s it. The Y favicon is not transparent(on purpose).
