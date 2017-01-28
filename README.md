@@ -17,7 +17,7 @@ Installation pages coming soon
 
 ## API Reference
 
-*Google API fonts : https://fonts.googleapis.com
+*Google API fonts : https://fonts.google.com/
 
 *W3CSS: http://www.w3schools.com/
 
