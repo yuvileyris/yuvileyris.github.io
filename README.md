@@ -13,7 +13,7 @@ This project exists to stand out of the crowd and to show how creative it can be
 
 ## Installation
 
-None
+Installation pages coming soon
 
 ## API Reference
 
