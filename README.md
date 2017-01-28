@@ -19,7 +19,7 @@ Installation pages coming soon
 
 *Google API fonts : https://fonts.googleapis.com
 
-*W3CSS: http://www.w3schools.com/lib/w3.css
+*W3CSS: http://www.w3schools.com/
 
 *JQuery library: https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js
 
