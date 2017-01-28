@@ -23,7 +23,7 @@ Installation pages coming soon
 
 *JQuery library: https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js
 
-*Font Awesome Icons: http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css
+*Font Awesome Icons: http://fontawesome.io/icons/
 
 ## Tests
 
