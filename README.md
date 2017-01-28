@@ -44,4 +44,5 @@ No Copyright. Parallax inspired by w3schools.com, yuvileyris.github.io inspired 
 
 ## Else...
 
+Telegram button coming in "contact" section.
 That´s it. The Y favicon is not transparent(on purpose).
