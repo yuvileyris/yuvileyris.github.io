@@ -17,13 +17,13 @@ Installation pages coming soon
 
 ## API Reference
 
-*Google API fonts : https://fonts.googleapis.com
+*Google API fonts : https://fonts.google.com/
 
-*W3CSS: http://www.w3schools.com/lib/w3.css
+*W3CSS: http://www.w3schools.com/
 
 *JQuery library: https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js
 
-*Font Awesome Icons: http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css
+*Font Awesome Icons: http://fontawesome.io/icons/
 
 ## Tests
 
@@ -44,4 +44,5 @@ No Copyright. Parallax inspired by w3schools.com, yuvileyris.github.io inspired 
 
 ## Else...
 
+Telegram button coming in "contact" section.
 That´s it. The Y favicon is not transparent(on purpose).
